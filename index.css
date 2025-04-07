@@ -236,6 +236,8 @@ footer .wrapper-footer a:hover:before {width: 100%;-webkit-transition: width .3s
     .img-mobil img{width: 80%;}
     .hero-list li{font-size: 0.8em!important;}
 
+    .padding-nl-mobil{padding-left:25px!important;padding-right:25px!important;}
+
 }
 
 /** `md` applies to small devices (landscape phones, less than 768px)**/
