@@ -235,6 +235,9 @@ footer .wrapper-footer a:hover:before {width: 100%;-webkit-transition: width .3s
     .img-mobil{text-align: center;justify-content: center!important;}
     .img-mobil img{width: 80%;}
     .hero-list li{font-size: 0.8em!important;}
+
+    .hbspt-form-book{border: none;border-radius: 0px;padding: 15px;}
+
 }
 
 /** `md` applies to small devices (landscape phones, less than 768px)**/
